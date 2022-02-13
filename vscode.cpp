@@ -7,6 +7,7 @@ int main()
     int n;
     cin >> n;
     cout << n + 3;
+    n + 5;
 }
 =======
 #include <iostream>
