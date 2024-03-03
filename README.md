@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qudamyker" alt="qudamyker" /></a> </p>
 
-- 🌱 I’m currently learning Android **Java**
+- 🌱 I’m currently learning Android **Java && Flutter** and searching about **Spring Boot**
 
 - 📫 How to reach me **21520178@gm.uit.edu.vn**
 
