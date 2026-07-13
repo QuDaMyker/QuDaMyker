@@ -1,39 +1,62 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<a href="https://flutter.dev/">
-  <h1 align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png">
-      <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png">
-    </picture>
-  </h1>
-</a>
-<h3 align="center">I'm a FullStack Developer</h3>
-<img align="right" alt"Coding" Width="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qudamyker&label=Profile%20views&color=0e75b6&style=flat" alt="qudamyker" /> </p>
+# Hi, I'm Pham Quoc Danh 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qudamyker" alt="qudamyker" /></a> </p>
+### Full-stack Software Engineer · Ho Chi Minh City, Vietnam · UTC+7
 
-- 🌱 I’m a FullStack Developer focus on **Spring Boot | Go | NodeJs** and **Android | iOS | Flutter**
+I build software that stays useful under pressure—combining backend depth with product instincts.
 
-- 📫 How to reach me **quocdanhmyker@gmail.com**
+[![Email](https://img.shields.io/badge/Email-quocdanhmyker%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:quocdanhmyker@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pqdanh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pqdanh/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/mauxanhladuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mauxanhladuong" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pqdanh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pqd" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Enjoy my applicaion</h3>
-<p align="left">
-<a href="https://play.google.com/store/apps/dev?id=8580484381159959889g" target="blank"><img align="center" src="https://www.svgrepo.com/show/452223/google-play.svg" alt="googleplaystore" height="30" width="30" /></a>
-</p>
+## About
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="android" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="android" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="android" width="40" height="40"/> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
+I'm a full-stack engineer with a backend focus, currently building healthcare software at **SynergenX**. I work primarily with NestJS microservices, Kafka, PostgreSQL, and Azure, with an emphasis on clear contracts, reliable delivery, and systems that are observable in production.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qudamyker&show_icons=true&locale=en&layout=compact" alt="qudamyker" /></p>
+My roots in Kotlin, Flutter, and SwiftUI—including offline-first mobile development—shape how I design backend systems: defensively, with real network conditions, retries, partial failure, and the end-user experience in mind.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qudamyker&show_icons=true&locale=en" alt="qudamyker" /></p>
+## Current focus
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qudamyker&" alt="qudamyker" /></p>
+- Designing maintainable microservices and event-driven workflows.
+- Making distributed systems easier to operate through testing, tracing, and practical observability.
+- Connecting product needs to durable API, data, and messaging contracts.
+
+## Selected work
+
+### BMovie · [Google Play](https://play.google.com/store/apps/details?id=com.builtlab.bmovie)
+
+A movie platform built with **NestJS, PostgreSQL, Prisma, Kotlin, and Docker**, featuring secure sessions, subscriptions, and cross-device viewing progress.
+
+### Rocket Photo
+
+A photo platform built with **Go, gRPC, Kafka, Redis, and SwiftUI**. It combines REST and gRPC APIs, PASETO authentication, queue-based processing, and S3/R2 object storage.
+
+### Hi TOEIC · [Google Play](https://play.google.com/store/apps/details?id=com.buitlab.hi_toeic) · [App Store](https://apps.apple.com/us/app/hi-toeic/id6747833282)
+
+An English-learning product built with **Spring Boot, PostgreSQL, Flutter, Supabase, and Docker**, with 3,000+ vocabulary records, live audio rooms, and real-time synchronization.
+
+## Toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Backend | NestJS, TypeScript, Go, Spring Boot, REST, gRPC, OpenAPI |
+| Data & messaging | PostgreSQL, Prisma, Redis, Kafka, transactional outbox |
+| Cloud & delivery | Azure, Docker, GitHub Actions, CI/CD, OpenTelemetry |
+| Mobile | Kotlin, Jetpack Compose, Flutter, SwiftUI |
+| Engineering | Microservices, event-driven systems, Clean Architecture, testing, observability |
+
+## Experience snapshot
+
+- **Software Engineer, SynergenX (Healthcare)** — Jul 2026–Present
+- **B.S. in Software Engineering, University of Information Technology (UIT)**
+- **Languages:** Vietnamese, English
+
+## Find me
+
+- [GitHub](https://github.com/QuDaMyker)
+- [LinkedIn](https://www.linkedin.com/in/pqdanh/)
+- [Email](mailto:quocdanhmyker@gmail.com)
+- [Google Play developer page](https://play.google.com/store/apps/dev?id=8580484381159959889)
+- [Apple developer page](https://apps.apple.com/vn/developer/pham-quoc-danh/id1817930428)
